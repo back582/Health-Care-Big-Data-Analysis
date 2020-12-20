@@ -37,5 +37,5 @@ AI를 활용한 의료 빅데이터 분석의 이론 및 실습
  ### 1차 이론과 실습
 ![KakaoTalk_20201220_163012510](https://user-images.githubusercontent.com/17943248/102707720-ccbd5600-42e0-11eb-8f9b-ce8fc248cdfe.jpg)
 <br><br>
-### 2차 이론과 
+ ### 2차 이론과 실습
 ![KakaoTalk_20201220_163020345](https://user-images.githubusercontent.com/17943248/102707739-e9598e00-42e0-11eb-80a1-bb18ef43ee2e.jpg)
