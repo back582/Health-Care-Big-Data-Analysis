@@ -31,3 +31,7 @@ AI를 활용한 의료 빅데이터 분석의 이론 및 실습
  - 팀원 간의 협력과 소통 능력 함양
  - 데이터 웹 공유 방식에 대한 이해와 웹 설계 능력 강화
  - 사물인터넷을 통한 융합 프로젝트 경험으로 사회과학에 대한 이해 함양
+
+![KakaoTalk_20201220_163012510](https://user-images.githubusercontent.com/17943248/102707720-ccbd5600-42e0-11eb-8f9b-ce8fc248cdfe.jpg)
+
+![KakaoTalk_20201220_163020345](https://user-images.githubusercontent.com/17943248/102707739-e9598e00-42e0-11eb-80a1-bb18ef43ee2e.jpg)
